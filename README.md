@@ -1,2 +1,2 @@
 # Logic-Design
-RTL solutions &amp; Questions
+Design & Verification related problems & solutions
