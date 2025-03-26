@@ -9,5 +9,4 @@ module ones(in,clk,reset,Q);
       else
         Q<=Q | in;
     end
-endmodule
-  
+ 
