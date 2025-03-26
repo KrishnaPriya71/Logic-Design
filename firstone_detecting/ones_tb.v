@@ -17,7 +17,7 @@ module tb;
       
       #5; reset=1;
       
-      
+      // display after every input to check values
       #5; in=0;
       $display("DISPLAY::time=%0t, in=%0d, Q=%0d", $time,in,Q);
       #5; in=0;
